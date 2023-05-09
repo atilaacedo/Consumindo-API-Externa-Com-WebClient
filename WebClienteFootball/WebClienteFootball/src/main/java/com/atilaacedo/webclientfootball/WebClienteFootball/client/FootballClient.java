@@ -27,7 +27,7 @@ public class FootballClient {
 		return webClient
 				.get()
 				.uri("/teams?id=" + id)
-				.header("X-RapidAPI-Key", "cdef7e9a4af3a4eb6cbfde346be5a413")
+				.header("X-RapidAPI-Key", "Sua-KEY")
 				.retrieve()
 				.bodyToMono(TeamResponse.class);
 	}
