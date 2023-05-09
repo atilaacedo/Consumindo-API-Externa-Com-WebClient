@@ -136,6 +136,6 @@ Modelo da url: [http://localhost:8080/webclientfootball/teams/12](http://localho
 
 Retorno Desejado:
 
-![Retorno-Esperado]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/14f5a754-5a4f-447e-9c7f-14f319343cae/Untitled.png](https://raw.githubusercontent.com/atilaacedo/Consumindo-API-Externa-Com-WebClient/main/Assets/Retorno-Esperado-Times.png))
+![RetornoEsperado](https://raw.githubusercontent.com/atilaacedo/Consumindo-API-Externa-Com-WebClient/main/Assets/Retorno-Esperado-Times.png))
 
 Por fim, você pode consumir a API de diversas formas, porém utilizei o WebClient do Spring para mostrar uma boa alternativa e documentar meu aprendizado
